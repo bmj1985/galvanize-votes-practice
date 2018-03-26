@@ -1,0 +1,12 @@
+@import url("https://fonts.googleapis.com/css?family=Open+Sans:300,400,400i,700");
+
+@mixin base-font {
+    font-family: "Open Sans", sans-serif;
+    font-size: 1rem;
+    color: #000;
+}
+
+@mixin primary-header-font {
+    font-family: "Open Sans", sans-serif;
+    font-size: 1.5rem;
+}

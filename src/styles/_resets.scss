@@ -1,0 +1,17 @@
+@import "_typography";
+
+* {
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none;
+}
+
+button {
+    border: none;
+}
+
+body {
+    @include base-font;
+}
