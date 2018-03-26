@@ -6,6 +6,7 @@
         </header>
         <main>
         <p>The future home of Galvanize Votes</p>
+        <p><router-link :to="{name: 'topicList'}">Go to topics</router-link></p>
         </main>
     </div>
 </template>

@@ -9,4 +9,11 @@
 @mixin primary-header-font {
     font-family: "Open Sans", sans-serif;
     font-size: 1.5rem;
+    font-weight: 300;
+}
+
+@mixin secondary-header-font {
+    font-family: "Open Sans", sans-serif;
+    font-size: 1.25rem;
+    font-weight: 300;
 }
